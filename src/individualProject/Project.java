@@ -103,8 +103,5 @@ public class Project implements Serializable {
 
 			   //ascending order
 			   return TaskDate1.compareTo(TaskDate2);
-
-			   //descending order
-			   //return TaskDate2.compareTo(TaskDate1);
 		    }};
 }
